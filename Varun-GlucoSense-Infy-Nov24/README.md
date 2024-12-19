@@ -41,7 +41,7 @@ The dataset includes a variety of health indicators, including:
 - Obesity
 - Diabetes Status (Target Variable)
 
-<h2> Setup and Requirements </h2>
+<h2> Libraries and Frameworks </h2>
 
 To run this project locally, ensure you have the following dependencies installed:
 
